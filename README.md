@@ -1,25 +1,25 @@
 # Cluster-analysis-of-Baltimore-Census-Tracts
 
-#Findings and Background Data
+Findings and Background Data:
 I chose to focus on the the prompt: "How are commuting zones or census tracts in Baltimore grouped based on different population metrics?" As Baltimore is a notoriously segregated region, I wanted to examine how census tracts are clustered by social factors such as race, income, and incarceration levels. I used a dataset from Opportunity Atlas, which contained data of black population, white populations, incarceration rates, and mean household incomes for each census tract. I then performed a 4 cluster analysis of this data, and found that the anchor tracts were characterized by very different z scores for each of the charcateristics I analyzed. I then tracked the anchor census tracts on a map of Baltimore, and found that they aligned with the "white L, black butterfly" distribution. 
-![](map.pdf)
+![](map.png)
 
-#Data Analysis Outline
+Data Analysis Outline
 business question: How can Baltimore government and organizations better target communities for social welfare programs? Cluster analyses of population characteristics are important to policymakers and non-governmental organizations who wish to target certain groups for social programs. Being aware of social factors, such as population demographics, can help these organizations better market services and meet the needs of the communities. 
 
 data question: How are census tracts in the Baltimore area clustered by race, income, and incarceration level? After exploring the various outcomes on Opportunity Atlas, I found that race, income, and incarceration rates were three of the most defining characteristics for areas in the Baltimore region. I used these three metrics to perform a 4 cluster analysis of the Opporunity Atlas dataset.
 
 data answer: The results of my cluster analysis yielded 4 anchor census tracts with varying z scores for each metric. 
-![](results)
+![](results.png)
 The areas with mid-high income and mid-low incarceration were associated with a higher white than black population. The census tract with low income and high incarceration was associated with a much higher black than white population. 
 
 business answer: I traced each of the 4 anchor census tracts on the Opporunity Atlas map of the Baltimore Area, which was filtered for household income. The three anchors with the wealthier, lower incarceration characteristics were in the outskirts of the Baltimore area, in the "White L". Whereas the anchor with the lower income and higher incarceration metrics was in Baltimore City, in the "Black Butterfly". This demonstrates that the social factors of income and incarceration are closely tied with race, and therefore follow the same geographic boundaries as racial segregation in Baltimore. Policymakers and other organizations could use this information to distribute more funding towards programs that go to target poverty and high rates of incarceration in these areas. These population characteristics could also help to tailor programs that better fit the needs and social dynamics of these regions.
 
 #Website Links
 
-Opportunity Atlas Dataset:
+Opportunity Atlas Dataset:https://drive.google.com/open?id=1kJbAbZOykIalcOhV-OHPYdpyTkhozbdv
 
-Excel Analysis: 
+Excel Analysis: file was lost, see findings and step-by-step analysis for more information on my process.
 
 #Step-by-step Analysis:
 
