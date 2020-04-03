@@ -15,8 +15,6 @@ The areas with mid-high income and mid-low incarceration were associated with a 
 
 business answer: I traced each of the 4 anchor census tracts on the Opporunity Atlas map of the Baltimore Area, which was filtered for household income. The three anchors with the wealthier, lower incarceration characteristics were in the outskirts of the Baltimore area, in the "White L". Whereas the anchor with the lower income and higher incarceration metrics was in Baltimore City, in the "Black Butterfly". This demonstrates that the social factors of income and incarceration are closely tied with race, and therefore follow the same geographic boundaries as racial segregation in Baltimore. Policymakers and other organizations could use this information to distribute more funding towards programs that go to target poverty and high rates of incarceration in these areas. These population characteristics could also help to tailor programs that better fit the needs and social dynamics of these regions.
 
-#Website Links
-
 Opportunity Atlas Dataset:https://drive.google.com/open?id=1kJbAbZOykIalcOhV-OHPYdpyTkhozbdv
 
 Excel Analysis: file was lost, see findings and step-by-step analysis for more information on my process.
