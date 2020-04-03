@@ -21,7 +21,7 @@ Opportunity Atlas Dataset:https://drive.google.com/open?id=1kJbAbZOykIalcOhV-OHP
 
 Excel Analysis: file was lost, see findings and step-by-step analysis for more information on my process.
 
-#Step-by-step Analysis:
+Step-by-step Analysis:
 
 1) filter 'czname' column and select only Baltimore
 2) copy 'tract', 'kfr_pooled_pooled_p25', 'jail_pooled_pooled_p25', 'black_pooled_count', and 'white_pooled_count' columns into a new sheet
