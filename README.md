@@ -2,7 +2,10 @@
 
 Findings and Background Data:
 I chose to focus on the the prompt: "How are commuting zones or census tracts in Baltimore grouped based on different population metrics?" As Baltimore is a notoriously segregated region, I wanted to examine how census tracts are clustered by social factors such as race, income, and incarceration levels. I used a dataset from Opportunity Atlas, which contained data of black population, white populations, incarceration rates, and mean household incomes for each census tract. I then performed a 4 cluster analysis of this data, and found that the anchor tracts were characterized by very different z scores for each of the charcateristics I analyzed. I then tracked the anchor census tracts on a map of Baltimore, and found that they aligned with the "white L, black butterfly" distribution. 
-![](map.png)
+![](map1.png)
+![](map2.png)
+![](map3.png)
+![](map4.png)
 
 Data Analysis Outline
 business question: How can Baltimore government and organizations better target communities for social welfare programs? Cluster analyses of population characteristics are important to policymakers and non-governmental organizations who wish to target certain groups for social programs. Being aware of social factors, such as population demographics, can help these organizations better market services and meet the needs of the communities. 
